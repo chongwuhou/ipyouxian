@@ -103,7 +103,6 @@
 188.213.168.52#IT-专享
 138.2.10.217#JP-专享
 158.101.152.6#JP-专享
-38.180.28.163#JP-专享
 168.138.192.16#JP-专享
 138.3.222.124#JP-专享
 152.70.82.101#JP-专享
@@ -171,9 +170,16 @@ cf.0sm.com#高速优选
 cfip.1323123.xyz#高速优选
 saas.sin.fan#高速优选
 cloudflare.182682.xyz#高速优选
-speed,marisalnc.com#高速优选
 bestcf.top#高速优选
 cnamefuckxxs.yuchen.icu#高速优选
 115155.xyz#高速优选
 cdn.tzpro.xyz#高速优选
 xn--b6gac.eu.org#高速优选
+cfip.cfcdn.vip#高速优选
+cloudfare-ip.mofashi.ltd#高速优选
+speed,marisalnc.com#高速优选
+cloudflare.9jy.cc#高速优选
+cf.zerone-cdn.pp.ua#高速优选
+cname.xirancdn.us#高速优选
+f3058171cad.002404.xyz#高速优选
+8.889288.xyz#高速优选
